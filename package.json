@@ -1,5 +1,5 @@
 {
-  "name": "my-push-backend",
+  "name": "my-push-back",
   "version": "1.0.0",
   "description": "Netlify functions for web push",
   "main": "netlify/functions/send-push.js",
